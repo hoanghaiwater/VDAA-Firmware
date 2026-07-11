@@ -1,0 +1,8 @@
+{
+  "model": "VDAA_TIMER_S3",
+  "version": "1.6.3-beta",
+  "firmware": "https://raw.githubusercontent.com/hoanghaiwater/VDAA-Firmware/main/firmware/firmware.bin",
+  "size": 1094000,
+  "sha256": "",
+  "note": "Beta firmware"
+}

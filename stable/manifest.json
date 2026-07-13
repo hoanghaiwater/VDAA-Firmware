@@ -1,8 +1,12 @@
 {
+  "schema": 1,
   "model": "VDAA_TIMER_S3",
-  "version": "1.6.2",
+  "channel": "stable",
+  "version": "1.6.4",
   "firmware": "https://raw.githubusercontent.com/hoanghaiwater/VDAA-Firmware/main/firmware/firmware.bin",
-  "size": 1094000,
+  "size": 0,
   "sha256": "",
-  "note": "Stable"
+  "mandatory": false,
+  "release_date": "2026-07-13",
+  "note": "Sua hien thi DA MOI NHAT va giu WATER 2 giay de thoat menu, khong tu vao lai cai dat."
 }

@@ -4,5 +4,5 @@
   "firmware": "https://raw.githubusercontent.com/hoanghaiwater/VDAA-Firmware/main/firmware/firmware.bin",
   "size": 1094000,
   "sha256": "",
-  "note": "Stable firmware 1.6.2"
+  "note": "Stable"
 }

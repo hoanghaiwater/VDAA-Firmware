@@ -4,5 +4,5 @@
   "bin": "https://raw.githubusercontent.com/hoanghaiwater/VDAA-Firmware/main/firmware/scale/stable/VDAA_SCALE_3.26.0.bin",
   "size": 1469968,
   "sha256": "26AC2C92F3E5C77106988B2C0DBB3CC15E3CED19F00B98769177A5E2B9C7DC7F",
-  "note": "OTA Engine, Device & Update tab."
+  "note": "Hoan thien OTA, hien thi build, kenh và kiem tra sha256."
 }

@@ -1,7 +1,7 @@
 {
   "model": "VDAA-SCALE-STANDALONE",
   "version": "3.24.0",
-  "bin": "https://github.com/hoanghaiwater/VDAA-Firmware/raw/refs/heads/main/firmware/scale/stable/VDAA_SCALE_3.24.0.bin",
+  "bin": "https://raw.githubusercontent.com/hoanghaiwater/VDAA-Firmware/main/firmware/scale/stable/VDAA_SCALE_3.24.0.bin",
   "size": 1465760,
   "sha256": "DD99B952F27D858B9D4645200A443A7FC4629387E30209F6207189852CF13179",
   "note": "OTA Engine, Device & Update tab."
